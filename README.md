@@ -51,7 +51,7 @@ plt.show()
 
 
 
-```
+
 ## Output
 </br><img width="918" height="764" alt="597909939-bde061a0-de15-4b70-8c4d-284ad72d86ff" src="https://github.com/user-attachments/assets/c33001e8-48b4-44d5-8981-1b4fcf113059" />
 
